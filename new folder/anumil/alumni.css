@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(238, 218, 198);
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family:'Lucida Sans',  'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 20px;
+}
+
+input,select,textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top:10px ;
+    border-radius: 4px;
+    border: 1px solid rgb(216, 182, 147);
+
+}
+
+b{
+    font-size: 18px;
+    opacity: 0.9;
+    
+    
+}
+
+#title{
+   overflow: hidden;
+   width: 102%;
+}
+#harf{
+    width: 30%;
+    margin: none;
+}
+
+button{
+    padding: 2px 20px;
+    font-size: 20px;
+    margin-top: 20px;
+}

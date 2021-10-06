@@ -1,0 +1,34 @@
+.top{
+    margin-left: 24px;
+}
+.top1{
+    margin-left: 24px;
+}
+.non{
+    margin-left: 24px;
+}
+
+.top2{
+    font-size: x-large;
+}
+.war{
+    margin-left: 30px;
+}
+img{
+    margin-left: -6px;
+}
+@media screen and (min-width:360px){
+    body{
+        background-color: aqua;
+    }
+}
+@media screen and (min-width:700px){
+    body{
+        background-color: rgb(200, 230, 230);
+    }
+}
+@media screen and (min-width:900px){
+    body{
+        background-color: #fff;
+    }
+}

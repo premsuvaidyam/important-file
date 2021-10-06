@@ -1,0 +1,53 @@
+body {
+    margin: 1vw 10vw;
+    background-color: rgba(156, 184, 211, 0.438);
+
+}
+.top{
+    margin-left: 15px;
+}
+.top1{
+    margin-left: 15px;
+}
+.non{
+    margin-left: 15px;
+}
+
+#main {
+    width: 80vw;
+    height: auto;
+    display: flex;
+    background-color: whitesmoke;
+}
+
+#menu {
+    width: 20vw;
+    height: 60vw;
+    background-color: rgba(122, 146, 168, 0.438);
+}
+
+#content {
+    width: 60vw;
+    min-height: 60vw;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 0.3vw 0vw;
+    font-size: 1.6vw;
+    display: inline-block;
+    background-color: rgba(156, 184, 211, 0.438);
+    padding: 1vw;
+    width: 17.5vw;
+
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, 0.425);
+    color: white;
+}
+.mener{
+    font-size: 15px;
+}

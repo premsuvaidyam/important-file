@@ -1,0 +1,33 @@
+.top{
+    margin-left: 24px;
+}
+.top1{
+    margin-left: 24px;
+}
+.non{
+    margin-left: 24px;
+}
+.wenter{
+    font-size: x-large;
+}
+.boner{
+    font-size: x-large;
+}
+.boners{
+    font-size: x-large;
+}
+@media screen and (min-width:380px){
+    body{
+        background-color: aqua;
+    }
+}
+@media screen and (min-width:640px){
+    body{
+        background-color: rgb(75, 110, 80);
+    }
+}
+@media screen and (min-width:840px){
+    body{
+        background-color: #ddd;
+    }
+}

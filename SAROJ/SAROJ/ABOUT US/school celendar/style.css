@@ -1,0 +1,17 @@
+.top{
+    margin-left: 24px;
+}
+.top1{
+    margin-left: 24px;
+}
+.non{
+    margin-left: 24px;
+}
+.textbox .textarea p {
+    font-size: 17px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #4E4E4E;
+    font-family: 'RobotoCondensed-Light';
+    text-align: justify;
+}

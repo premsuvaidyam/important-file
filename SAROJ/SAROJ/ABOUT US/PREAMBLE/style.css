@@ -1,0 +1,28 @@
+.top{
+    margin-left: 24px;
+}
+.top1{
+    margin-left: 24px;
+}
+.non{
+    margin-left: 24px;
+}
+.monar{
+     
+     font-size: x-large;
+}
+@media screen and (min-width:360px){
+    body{
+        background-color: coral;
+    }
+}
+@media screen and (min-width:680px){
+    body{
+        background-color: rgb(49, 34, 138);
+    }
+}
+@media screen and (min-width:890px){
+    body{
+        background-color: rgb(231, 230, 236);
+    }
+}
